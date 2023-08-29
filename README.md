@@ -24,11 +24,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, C++, Javascript, JQuery, Vue Js, PHP, Laravel, and MySQL , HTML, CSS, Bootstrap**
+- 🔭 I’m currently working on **Java, Vue Js and Laravel**
 
 - 🌱 I’m currently learning **Object Oriented Programming in Java**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in Software Engineering . So,I'm learning SE at **UCSY**
 
 
 - 💬 Ask me about **Web Development , DBMS or Java**
