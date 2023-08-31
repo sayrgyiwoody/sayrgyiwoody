@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming in Java**
 
-- ☁️ I've keen interest in Software Engineering . So,I'm learning SE at **UCSY**
+- ☁️ I've keen interest in Software Engineering . So, I'm learning SE major at **UCSY**
 
 
 - 💬 Ask me about **Web Development , DBMS or Java**
