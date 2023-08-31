@@ -35,7 +35,7 @@
 
 - 📫 Feel free to reach me out **wytun8904@gmail.com**
 
-- 🏠 Also We've an organization called [DevGeeks](https://github.com/DevGeeksMyanmar).
+- 🏠 Also I've an organization called [DevGeeks](https://github.com/DevGeeksMyanmar).
 <!--Intro end-->
 
 
