@@ -37,7 +37,7 @@
 
 - 🏠 Also I've an organization called [DevGeeks](https://github.com/DevGeeksMyanmar).
 
--  😶‍🌫️ Personal Portfolio here https://github.com/sayrgyiwoody/portfolio
+-  😶‍🌫️ Personal Portfolio here https://sayrgyiwoody.github.io/portfolio
 <!--Intro end-->
 
 
