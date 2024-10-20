@@ -11,6 +11,17 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
+👯 I’m looking to collaborate on open-source projects related to web development, particularly using Vue.js, React, or Laravel.
+
+🤝 I’m looking for help with mastering Flask and learning more about backend development.
+
+🌱 I’m currently learning Python and Flask.
+
+💬 Ask me about software engineering, hackathons, and my experiences winning awards at the UCSY product show and Job Matching Hackathon.
+
+⚡ Fun fact: I simplified the song 'Shinunoga E-Wa' by Fujii Kaze for fun and I'm always eager to learn new technologies!
+
+
 | 🏆 GitHub Trophies       | Languages        |
 |-----------------|-----------------|
 | ![](https://github-profile-trophy.vercel.app/?username=sayrgyiwoody&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=8) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayrgyiwoody&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) |
